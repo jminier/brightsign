@@ -11,7 +11,7 @@ BrightScript to deactivate Telnet server on a BrightSign player.
 
 >EnableSSH.brs
 
-BrightScript to activate SSH server (Default port is TCP 22, user is "brighsign" and password is "password") on a BrightSign player.
+BrightScript to activate SSH server (Default port is TCP 22, user is "brightsign" and password is "password") on a BrightSign player.
 
 >DisableSSH.brs
 
